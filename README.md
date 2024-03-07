@@ -16,7 +16,7 @@
 - [ossrs/flutter_live](https://github.com/ossrs/flutter_live) SRS(Simple Realtime Server) Choosing flutter-webrtc+fijkplayer to create its open source client `flutter_live`.
 - [pion/ion-sdk-flutter](https://github.com/pion/ion-sdk-flutter) A video conference sdk based on ion-sfu.
 - [telinx/janus_client_plugin](https://github.com/telinx/janus_client_plugin) janus client plugin.
-
+- [waterbus](https://github.com/lambiengcode/waterbus) Built on the latest WebRTC Chromium. Waterbus, an SFU-powered video meeting app, offers robust support for a wide range of popular codecs. Seamless communication, secure collaboration, end-to-end encryption for multiple participants. Optimize your meetings with Waterbus. In addition, it also supports Picture in Picture and Virtual Background on both Android and iOS.
 
 # Contribute
 
